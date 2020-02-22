@@ -86,3 +86,13 @@ See [development instructions](https://github.com/vn-ki/anime-downloader/wiki/De
 **arigatou gozaimasu**
 
 ![arigatou](https://media.giphy.com/media/VUC9YdLSnKuJy/giphy.gif)
+
+### Very useful commands for downloading anime
+
+'''
+anime dl haikyuu --provider animefreak --external-downloader {aria2} -q 1080p  -e 1:3
+'''
+
+'''
+anime dl haikyuu --provider gogoanime --external-downloader {aria2} -q 1080p  -e 1:3
+'''
